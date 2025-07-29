@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm ArthurJunior99!
 
-<!--
-**ArthurJunior99/ArthurJunior99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Software/Web Developer** who loves building creative and useful web applications. Whether it's crafting beautiful UIs or solving tricky backend challenges, I'm always eager to learn and build.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Profession:** Software/Web Developer
+- 🛠️ **Top Skills:**  
+  - C#
+  - HTML & CSS
+  - React
+
+## 🌟 Featured Projects
+
+- [Quiz App](#) — Test your knowledge with a fun quiz platform.
+- [Magic 8 Ball](#) — Get answers to your burning questions, just like the classic toy!
+- [Calculator](#) — Simple, elegant, and functional calculator for daily use.
+- [Mood Journal](#) — Track your feelings and reflect on your day.
+
+> _Want to see these projects in action?_  
+> Check out my pinned repositories below or browse my project list!
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/lerato-kgatlane-9b4263190)
+
+## 😄 Fun Fact
+
+> **Dad Joke:**  
+> A cheese factory exploded, there was da brie everywhere!
+
+---
+
+Thanks for visiting my profile!  
+Feel free to connect or check out my latest work. 🚀
