@@ -12,10 +12,8 @@ Welcome to my GitHub profile! I'm a passionate **Software/Web Developer** who lo
 
 ## 🌟 Featured Projects
 
-- [Quiz App](#) — Test your knowledge with a fun quiz platform.
 - [Magic 8 Ball](#) — Get answers to your burning questions, just like the classic toy!
 - [Calculator](#) — Simple, elegant, and functional calculator for daily use.
-- [Mood Journal](#) — Track your feelings and reflect on your day.
 
 > _Want to see these projects in action?_  
 > Check out my pinned repositories below or browse my project list!
